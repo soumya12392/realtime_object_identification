@@ -1,0 +1,46 @@
+.heading {
+  font-size: 20px;
+  width: 100%;
+  margin: 0px;
+  box-shadow: 5px 5px 5px #808080;
+  line-height: 0.9;
+}
+
+.heading_div {
+  float: none;
+  padding: 5px;
+  background: #ffffff; 
+  border-radius: 20px; 
+  color: #000000;
+  box-shadow: 5px 5px 5px #808080;
+}
+
+.heading_div2 {
+  font-size: 18px;
+}
+
+.result_para_tag {
+  box-shadow: 5px 5px 5px #808080;
+  font-size: 18px;
+}
+
+.result_para_tag span {
+  white-space: pre-line;
+}
+
+.copy_right_footer {
+  position: fixed;
+  bottom: 0;
+  color: #ffffff;
+  background-color: #808080;
+  width: 100%;
+  line-height: 3;
+  text-align: center;
+}
+
+canvas {
+  border: 5px dashed #808080;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #ffffff;
+  margin-top: 120px;
+}
